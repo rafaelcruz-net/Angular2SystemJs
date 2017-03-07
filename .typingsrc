@@ -1,0 +1,2 @@
+proxy="http://172.16.100.27:3128"
+rejectUnauthorized=false
